@@ -1,0 +1,7 @@
+numpy == 1.16.2
+pandas == 0.24.2
+matplotlib == 3.0.3
+torch == 1.5.0
+tqdm == 4.46.0
+sklearn == 0.0
+notebook == 5.7.8
